@@ -10,4 +10,4 @@ Features:
 -the game offers hints by supplying the word's definition when the user is down to just 2 guesses remaining.
 -at the end of the game, both the word and its definition is revealed, win or lose.
 
-For a demo of the game in action, click here.
+For a demo of the game in action, click [here](https://constructor-word-guess/demo).
